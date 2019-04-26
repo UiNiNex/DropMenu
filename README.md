@@ -13,7 +13,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.dongjunkun:DropDownMenu:1.0.4'
+    implementation 'com.github.spuermax:DropMenu:1.0.0'
 }
 ```
 
