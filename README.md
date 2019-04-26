@@ -2,8 +2,6 @@
 ## ScreenShot
 <img src="https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/art/simple.gif"/>
 
-<a href="https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/app/build/outputs/apk/app-debug.apk">Download APK</a>
-
 ## Gradle Dependency
 
 ```
